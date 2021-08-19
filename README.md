@@ -1,3 +1,2 @@
-![](https://github-readme-stats.vercel.app/api?username=ZJG0&color=yellowgreen)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZJG0&layout=compact)](https://github.com/ZJG0/github-readme-stats)
+![King's github stats](https://github-readme-stats.vercel.app/api?username=ZJG0&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)   
